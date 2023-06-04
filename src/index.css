@@ -12,6 +12,7 @@
   --branco: #FFF;
   --fonte-principal: 'Raleway', sans-serif;
   --fonte-secundaria: 'Playfair Display', sans-serif;
+  --verde-medio: #808F87;
 
   font-family: var(--fonte-principal);
 }
